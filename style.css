@@ -1,0 +1,10 @@
+h1 {
+    color: green;
+    font-size: 50px;
+    border: solid;
+    background-color: yellow;
+    margin-left: 30;
+}
+#ds li {
+    color: rgb(190, 60, 60);
+}
